@@ -1,0 +1,16 @@
+/home/acer/Dio/Series_Dio/bin/Debug/net5.0/Series_Dio
+/home/acer/Dio/Series_Dio/bin/Debug/net5.0/Series_Dio.deps.json
+/home/acer/Dio/Series_Dio/bin/Debug/net5.0/Series_Dio.runtimeconfig.json
+/home/acer/Dio/Series_Dio/bin/Debug/net5.0/Series_Dio.runtimeconfig.dev.json
+/home/acer/Dio/Series_Dio/bin/Debug/net5.0/Series_Dio.dll
+/home/acer/Dio/Series_Dio/bin/Debug/net5.0/ref/Series_Dio.dll
+/home/acer/Dio/Series_Dio/bin/Debug/net5.0/Series_Dio.pdb
+/home/acer/Dio/Series_Dio/obj/Debug/net5.0/Series_Dio.csprojAssemblyReference.cache
+/home/acer/Dio/Series_Dio/obj/Debug/net5.0/Series_Dio.GeneratedMSBuildEditorConfig.editorconfig
+/home/acer/Dio/Series_Dio/obj/Debug/net5.0/Series_Dio.AssemblyInfoInputs.cache
+/home/acer/Dio/Series_Dio/obj/Debug/net5.0/Series_Dio.AssemblyInfo.cs
+/home/acer/Dio/Series_Dio/obj/Debug/net5.0/Series_Dio.csproj.CoreCompileInputs.cache
+/home/acer/Dio/Series_Dio/obj/Debug/net5.0/Series_Dio.dll
+/home/acer/Dio/Series_Dio/obj/Debug/net5.0/ref/Series_Dio.dll
+/home/acer/Dio/Series_Dio/obj/Debug/net5.0/Series_Dio.pdb
+/home/acer/Dio/Series_Dio/obj/Debug/net5.0/Series_Dio.genruntimeconfig.cache
